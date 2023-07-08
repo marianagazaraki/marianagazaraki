@@ -1,5 +1,6 @@
 ### Olá! Eu sou a Mariana :sparkles:
-#### Uma estudante de TI com interesse em Desenvolvimento Front-end.
+#### Estudante de Tecnologia da Informação com ênfase em Análise de Dados.
+
 
 
  <div>
